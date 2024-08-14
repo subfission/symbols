@@ -78,12 +78,12 @@
 | `<=`        | Less than or equal to comparison.                   |
 | `>=`        | Greater than or equal to comparison.                |
 | `&&`        | Logical AND.                                        |
-| `\|\|`        | Logical OR.                                         |
+| `\|\|`      | Logical OR.                                         |
 | `!`         | Logical NOT.                                        |
 | `<<`        | Bitwise left shift.                                 |
 | `>>`        | Bitwise right shift.                                |
 | `&`         | Bitwise AND.                                        |
-| `|`         | Bitwise OR.                                         |
+| `\|`        | Bitwise OR.                                         |
 | `^`         | Bitwise XOR.                                        |
 | `&^`        | Bit clear (AND NOT).                                |
 | `&`         | Address-of operator, returns the memory address.    |
