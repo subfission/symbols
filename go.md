@@ -78,7 +78,7 @@
 | `<=`        | Less than or equal to comparison.                   |
 | `>=`        | Greater than or equal to comparison.                |
 | `&&`        | Logical AND.                                        |
-| `||`        | Logical OR.                                         |
+| `\|\|`        | Logical OR.                                         |
 | `!`         | Logical NOT.                                        |
 | `<<`        | Bitwise left shift.                                 |
 | `>>`        | Bitwise right shift.                                |
