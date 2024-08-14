@@ -95,7 +95,7 @@
 | `<<`        | Bitwise left shift.                                 |
 | `>>`        | Bitwise right shift.                                |
 | `&`         | Bitwise AND.                                        |
-| `|`         | Bitwise OR.                                         |
+| `\|`        | Bitwise OR.                                         |
 | `^`         | Bitwise XOR.                                        |
 | `~`         | Bitwise NOT.                                        |
 | `+`         | Addition or concatenation.                          |
